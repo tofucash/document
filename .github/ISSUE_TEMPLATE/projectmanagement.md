@@ -20,13 +20,14 @@ assignees: ''
 2019-01-03
 
 
-## Planned Changes
+## Changes Planned
+- [ ] COMPLETE!
 - [ ] change1
   - [ ] change1.1
   - [ ] change1.2
 - [ ] change2
 
 
-## Added Changes
+## Changes Added
 
 ## Notes
